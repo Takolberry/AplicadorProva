@@ -1,0 +1,97 @@
+         Prova: Prova INAP
+         Tempo Restante: 06 min 17 s
+         
+         Total de questões : 10 
+         Acertos : 4 
+         Acertos Parciais : 2 
+         Nota : 4,80 
+         Porcentagem de acertos : 48,00%
+         -------------------------------------------------------
+         1 - Qual das alternativas abaixo melhor define o que é computador?
+     [OK]a) ( X ) Uma máquina capaz de receber, armazenar e processar informações e ainda ser capaz de 
+                  realizar outras tarefas mediante programação.
+         b) (   ) É a parte lógica, que determina o comportamento e a função a ser executada e entendida pelo hardware.
+                  É constituído pelos programas, linguagens e sistemas em geral.
+         c) (   ) É o conjunto de peças, encaixes, fios, conexões, circuitos integrados(chips) e seus periféricos 
+                  (teclado, mouse, monitor, impressora, drivers, etc)
+         d) (   ) É a Unidade Central de Processamento(CPU)
+         e) (   ) Uma calculadora
+         -------------------------------------------------------
+
+         2 - Qual componente, associado à CPU, é responsável por gerar pulsos?
+     [OK]a) ( X ) CLOCK
+         b) (   ) ROM
+         c) (   ) RAM
+         d) (   ) Registrador
+         e) (   ) HD
+         -------------------------------------------------------
+
+         3 - O que significa a sigla RAM?
+     [OK]a) ( X ) Random Access Memory
+         b) (   ) Random Almost Memory
+         c) (   ) Really Accellareted Memory
+         d) (   ) Hard Disk
+         e) (   ) Rapid Accelerated Memory
+         -------------------------------------------------------
+
+         4 - Qual das alternativas abaixo melhor define o que é software?
+ [ERRADO]a) ( X ) É o conjunto de peças, encaixes, fios, conexões, circuitos integrados(chips) e seus periféricos 
+                  (teclado, mouse, monitor, impressora, drivers, etc)
+[SOLUÇÃO]b) (   ) É a parte lógica, que determina o comportamento e a função a ser executada e entendida pelo hardware.
+                  É constituído pelos programas, linguagens e sistemas em geral.
+         c) (   ) Uma máquina capaz de receber, armazenar e processar informações e ainda ser capaz de realizar 
+                  outras tarefas mediante programação.
+         d) (   ) É a Unidade Central de Processamento(CPU)
+         e) (   ) É a parte lógica, que determina o comportamento e a função a ser executada e entendida pelo 
+                  hardware exceto o sistema operacional
+         -------------------------------------------------------
+
+         5 - Qual é função do programa SETUP?
+ [ERRADO]a) ( X ) Realiza um auto-teste ao ligar o computador, como por exemplo, o teste de memória.
+         b) (   ) Carrega o sistema operacional na memória principal (RAM)
+         c) (   ) Realiza a compactação das informações no HD
+[SOLUÇÃO]d) (   ) Realiza as configurações básicas do computador
+         e) (   ) Gera pulsos de controle para o processador
+         -------------------------------------------------------
+
+         6 - Quando há falta de energia esse tipo de dispositivo de armazenamento perde os dados nele armazenados, de qual dispositivo se trata?
+     [OK]a) ( X ) RAM
+     [OK]b) ( X ) Random Access Memory
+         c) (   ) ROM
+         d) (   ) Dispositivo de armazenamento NÃO volátil
+     [OK]e) ( X ) Dispositivo de armazenamento volátil
+         -------------------------------------------------------
+
+         7 - USB, HDMI e conector de rede são considerados?
+     [OK]a) ( X ) Padrões internacionais da indústria
+ [ERRADO]b) ( X ) Periféricos de entrada e saída
+[SOLUÇÃO]c) (   ) Interfaces
+         d) (   ) Processadores
+         e) (   ) Periféricos de entrada
+         -------------------------------------------------------
+
+         8 - O que é um software básico?
+ [ERRADO]a) ( X ) Programas que permitam a operação do computador
+ [ERRADO]b) ( X ) Softwares que gerenciam os recursos do sistema e que permitam desenvolver apresentações de slides
+[SOLUÇÃO]c) (   ) Softwares que permitam desenvolver outros softwares e que gerenciam os recursos do sistema
+                   (define qual programa recebe atenção do processador, gerencia a memória, cria um sistema de arquivos, etc.),
+                   além fornecer uma interface entre o computador e o usuário
+         d) (   ) Programas que permitam a programação do computador
+[SOLUÇÃO]e) (   ) Programas que permitam a programação e operação do computador
+         -------------------------------------------------------
+
+         9 - Qual alternativa apresenta apenas softwares básicos?
+ [ERRADO]a) ( X ) Sistema Operacional e Pacote Office
+         b) (   ) Sistema operacional, Editor de Texto e linguagem de programação
+[SOLUÇÃO]c) (   ) Sistema operacional
+         d) (   ) Skype e Power Point
+         e) (   ) Editor de Texto e Planilha de Cálculo
+         -------------------------------------------------------
+
+         10 - Em qual unidade é medida a velocidade de uma CPU?
+ [ERRADO]a) ( X ) Km/h
+[SOLUÇÃO]b) (   ) Hertz
+         c) (   ) metros quadrados
+         d) (   ) m/s
+         e) (   ) Ampere
+         -------------------------------------------------------
